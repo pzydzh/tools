@@ -10,4 +10,5 @@
 
 繁体中文转换成简体中文
 
+
 `simplified_sentence = Traditional2Simplified(traditional_sentence)`
